@@ -8,7 +8,7 @@
 ###
 
 <div align="left">
-   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2FZP%2F8H%2FWIK1JS3WX1T6-180x180.PNG&w=128&q=75)" height="30" alt="javascript logo"  />
+   <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2FZP%2F8H%2FWIK1JS3WX1T6-180x180.PNG&w=128&q=75" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
