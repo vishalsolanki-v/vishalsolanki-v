@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vishal and I'm a Frontend Developer, from Noida, India 🇮🇳 </h2>
+<span><h2 align="left">Hi 👋! My name is Vishal and I'm a Frontend Developer, from Noida, India <img src="https://img.icons8.com/color/48/india.png" align="bottom" height="30" alt="Next Js logo"  /></h2> </span>
 
 ###
 ###
