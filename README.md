@@ -3,7 +3,20 @@
 ###
 ###
 
-   <img src="https://i.pinimg.com/564x/43/e8/32/43e83284da507ef31709e99c6e36de71.jpg" alt="image"  width="250" height="250" align="right" style="border-radius:50%; background:transparent;filter: drop-shadow(-2px 6px 19px #db1a40);"/>
+  <style>
+.image-container {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background: transparent;
+    filter: drop-shadow(-2px 6px 19px #db1a40);
+}
+</style>
+
+<div class="image-container">
+    <img src="https://i.pinimg.com/564x/43/e8/32/43e83284da507ef31709e99c6e36de71.jpg" alt="image" width="100%" height="100%" />
+</div>
+
 
 ###
 
