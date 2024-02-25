@@ -3,7 +3,7 @@
 ###
 ###
 
-   <img src="https://i.pinimg.com/564x/43/e8/32/43e83284da507ef31709e99c6e36de71.jpg" alt="image"  width="150" height="150" align="right"/>
+   <img src="https://i.pinimg.com/564x/43/e8/32/43e83284da507ef31709e99c6e36de71.jpg" alt="image"  width="250" height="250" align="right" style="border-radius:50%; background:transparent;filter: drop-shadow(-2px 6px 19px #db1a40);"/>
 
 ###
 
